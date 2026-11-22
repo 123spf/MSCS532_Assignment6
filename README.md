@@ -4,7 +4,7 @@ This repository contains my Python implementations and analysis for **Part 1 (Me
 
 ## How to Run the Code
 
-Requires **Python 3** (no external libraries needed). Open a terminal inside the `MSCS532_Assignment6` folder and run:
+Requires **Python 3**. Open a terminal inside the `MSCS532_Assignment6` folder and run:
 
 ```
 # Part 1: Selection algorithms & benchmarks
