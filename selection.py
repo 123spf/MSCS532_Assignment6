@@ -138,7 +138,7 @@ def deterministic_select(arr, k):
     return answer_pair[0]
 
 
-# Quick test you can run right away
+# Quick test
 if __name__ == "__main__":
     sample = [12, 3, 5, 7, 3, 19, 5]
     k = 4  # Looking for the 4th smallest element (which is 5)
